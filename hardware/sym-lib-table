@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name discipline-pcb-rescue)(type Legacy)(uri "C:/Users/Daniel Quach/Desktop/keyboard/discipline-master/discipline-pcb-rescue.lib")(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Type-C.pretty/Type-C.lib)(options "")(descr ""))
+  (lib (name 65_keyboard_pcb-rescue)(type Legacy)(uri ${KIPRJMOD}/65_keyboard_pcb-rescue.lib)(options "")(descr ""))
+)
